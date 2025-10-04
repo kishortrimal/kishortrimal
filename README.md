@@ -94,7 +94,7 @@ _PHP | CodeIgniter | MySQL | Bootstrap_
 ### 🚀 Achievements
 
 - 4th Prize – Smart India Hackathon 2018 (**DPR Management System**) – Built using **PHP | CodeIgniter | MySQL | Bootstrap**  
-- Led teams and delivered enterprise-grade **full-stack web solutions**, including **modern React/Next.js apps and legacy PHP systems**  
+- Led teams and delivered enterprise-grade **full-stack web solutions**, including **modern React/Next.js apps and PHP systems**  
 - Multiple certifications including **Microsoft MTA, Python, ISTQB, and React Basic**  
 
 ---
