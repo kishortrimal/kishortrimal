@@ -48,7 +48,7 @@
 
 #### 🔹 SourceFuse Technologies India Pvt. Ltd.
 **Technical Lead (Aug 2024 – Present)**  
-- Lead a team of 4-6 developers delivering scalable and high-performance React and Next.js web applications.  
+- Lead a team of 2-4 developers delivering scalable and high-performance React and Next.js web applications.  
 - Defined frontend architecture standards, component libraries, and state management patterns focusing on performance and maintainability.  
 - Mentored engineers through code reviews, technical sessions and ensured adherence to best practices.  
 - Collaborated with cross-functional teams to design robust user-centric solutions for enterprise financial and analytics platforms.
