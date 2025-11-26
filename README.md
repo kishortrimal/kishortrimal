@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Kishor Trimal</h1>
-<h3 align="center">Technical Lead | Frontend Architect | Full-Stack Developer (React / Next.js / Node.js)</h3>
+<h3 align="center">Technical Lead and Senior Frontend Engineer - React, Next.js, GraphQL | 6+ Years Experience</h3>
 
 <p align="center">
   <a href="https://github.com/kishortrimal"><img src="https://img.shields.io/github/followers/kishortrimal?label=Follow&style=social"></a>
@@ -12,13 +12,13 @@
 
 ### 👨‍💻 About Me
 
-💼 **Technical Lead** with 6+ years of experience delivering **scalable web applications** and leading high-performing engineering teams.  
+💼 Technical Lead and Senior Frontend Engineer with 6+ years of experience delivering scalable enterprise React and Next.js applications, including 1 year leading high-performing engineering teams. 
 
-🎯 **Frontend Architect** specializing in **React.js, Next.js, Redux-Saga, Redux Toolkit, and TypeScript**, with a strong focus on UI/UX performance optimization.  
+🎯 Specialized in frontend architecture with React.js, Next.js, Redux-Saga, Redux Toolkit, TypeScript, GraphQL, and Node.js.
 
 ⚡ Experienced in **full-stack development**, integrating **Node.js, GraphQL, and databases** to deliver end-to-end solutions.  
 
-💡 Passionate about mentoring developers, implementing best practices, and transforming complex business requirements into elegant digital solutions.
+💡 Passionate about mentoring developers, driving code quality, implementing best practices, and transforming complex business requirements into elegant digital solutions.
 
 ---
 
@@ -30,7 +30,7 @@
 **Version Control:** Git | Bitbucket | GitHub  
 **Methodologies:** Agile / Scrum  
 **Tools:** VS Code | Postman | JIRA | Docker  
-**Leadership:** Code Review | Architecture Design | Team Mentorship | Quality Assurance  
+**Leadership:** Architecture Design | Code Review | Team Mentorship | Quality Assurance  
 **Testing:** Jest | React Testing Library | Cypress  
 
 ---
@@ -48,20 +48,26 @@
 
 #### 🔹 SourceFuse Technologies India Pvt. Ltd.
 **Technical Lead (Aug 2024 – Present)**  
-**Senior Software Engineer (Aug 2023 – Aug 2024)**  
-**Software Engineer (Aug 2022 – Aug 2023)**  
+- Lead a team of 4-6 developers delivering scalable and high-performance React and Next.js web applications.  
+- Defined frontend architecture standards, component libraries, and state management patterns focusing on performance and maintainability.  
+- Mentored engineers through code reviews, technical sessions and ensured adherence to best practices.  
+- Collaborated with cross-functional teams to design robust user-centric solutions for enterprise financial and analytics platforms.
+  
+**Senior Software Engineer (Aug 2023 – Aug 2024)**
+- Developed and optimized React.js/Next.js applications using Redux-Saga and Redux Toolkit.  
+- Implemented reusable UI components and optimized data fetching with Apollo GraphQL to improve app responsiveness.  
+- Created automated tests for critical flows to improve product quality and regression safety.
 
-- Led architecture design discussions focusing on **scalability, performance, and maintainability**.  
-- Designed, developed, and optimized **React.js/Next.js web apps**.  
-- Conducted code reviews and mentored developers to ensure **high-quality code**.  
-- Collaborated with Product and UI/UX teams to deliver **user-centric solutions**.  
+**Software Engineer (Aug 2022 – Aug 2023)**  
+- Developed scalable React.js applications with Redux-Saga for state management.  
+- Participated in full SDLC from requirement gathering to deployment in Agile teams, focusing on modular and maintainable code.
 
 #### 🔹 iTalent India Pvt. Ltd.
 **Software Developer (Jun 2019 – Aug 2022)**  
 
-- Developed **full-stack web applications** using React, Next.js, Apollo, GraphQL, Laravel, MySQL, and PostgreSQL.  
-- Built highly scalable distributed solutions for **enterprise clients**.  
-- Maintained **high standards of code quality** and application performance.
+- Built BizGrow V1 (Laravel, MySQL) and BizGrow Pulse V2 (React, Next.js, Apollo, GraphQL, MongoDB) platforms.  
+- Developed full-stack, KPI analytics platforms with complex dashboards, improving business insights for SME clients.  
+- Ensured high code quality, scalability, and performance adhering to Agile practices.
 
 ---
 
