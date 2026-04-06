@@ -1,6 +1,8 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Kishor Trimal</h1>
-<h3 align="center">Technical Lead and Senior Frontend Engineer - React, Next.js, GraphQL | 6+ Years Experience</h3>
+<h3 align="center">
+Technical Lead / Senior Frontend Engineer | React.js, Next.js, TypeScript, GraphQL | Frontend Architecture | 6+ Years Experience
+</h3>
 
 <p align="center">
   <a href="https://github.com/kishortrimal"><img src="https://img.shields.io/github/followers/kishortrimal?label=Follow&style=social"></a>
@@ -19,6 +21,16 @@
 ⚡ Experienced in **full-stack development**, integrating **Node.js, GraphQL, and databases** to deliver end-to-end solutions.  
 
 💡 Passionate about mentoring developers, driving code quality, implementing best practices, and transforming complex business requirements into elegant digital solutions.
+
+---
+
+### 🚀 Key Highlights
+
+• Led a team of 4 engineers delivering scalable enterprise applications  
+• Improved application performance by ~25–30% through optimization techniques  
+• Built reusable component libraries to accelerate development  
+• Designed frontend architecture for data-intensive dashboards  
+• Experience in system design and scalable application development  
 
 ---
 
