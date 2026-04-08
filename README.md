@@ -77,7 +77,7 @@ Technical Lead / Senior Frontend Engineer | React.js, Next.js, TypeScript, Graph
 #### 🔹 iTalent India Pvt. Ltd.
 **Software Developer (Jun 2019 – Aug 2022)**  
 
-- Built BizGrow V1 (Laravel, MySQL) and BizGrow Pulse V2 (React, Next.js, Apollo, GraphQL, MongoDB) platforms.  
+- Built BizGrow V1 (Laravel, MySQL) and BizGrow Pulse V2 (React, Next.js, Apollo, GraphQL, MongoDB, Node Js) platforms.  
 - Developed full-stack, KPI analytics platforms with complex dashboards, improving business insights for SME clients.  
 - Ensured high code quality, scalability, and performance adhering to Agile practices.
 
@@ -91,7 +91,7 @@ _React.js | Redux-Saga | CSS3_
 - Optimized performance, automated testing, and implemented reusable React components.
 
 #### 📊 BizGrow Pulse V2  
-_React.js | Next.js | Apollo | GraphQL | MongoDB_  
+_React.js | Next.js | Apollo | Node Js | GraphQL | MongoDB_  
 - SME business growth platform visualizing KPIs and insights.  
 - Full-stack development, performance improvements, and high scalability.
 
