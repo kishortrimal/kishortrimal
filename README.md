@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Kishor Trimal</h1>
 <h3 align="center">
-Technical Lead / Senior Frontend Engineer | React.js, Next.js, TypeScript, GraphQL | Frontend Architecture | 6+ Years Experience
+Technical Lead | Senior Full Stack Engineer | MERN Stack | React.js | Node.js | Next.js | 6+ Years Experience
 </h3>
 
 <p align="center">
@@ -14,113 +14,101 @@ Technical Lead / Senior Frontend Engineer | React.js, Next.js, TypeScript, Graph
 
 ### 👨‍💻 About Me
 
-💼 Technical Lead and Senior Frontend Engineer with 6+ years of experience delivering scalable enterprise React and Next.js applications, including 1 year leading high-performing engineering teams. 
+💼 Technical Lead and Senior Full Stack Engineer with **6+ years of experience** building scalable enterprise applications, including **6 years of expertise in React.js / Next.js** and **3 years of hands-on MERN stack development experience**.
 
-🎯 Specialized in frontend architecture with React.js, Next.js, Redux-Saga, Redux Toolkit, TypeScript, GraphQL, and Node.js.
+🎯 Specialized in **frontend architecture, scalable dashboard development, reusable component systems, performance optimization, and full-stack product delivery**.
 
-⚡ Experienced in **full-stack development**, integrating **Node.js, GraphQL, and databases** to deliver end-to-end solutions.  
+⚡ Experienced in **Node.js, Express.js, MongoDB, GraphQL, REST APIs, and cloud deployments using AWS**.
 
-💡 Passionate about mentoring developers, driving code quality, implementing best practices, and transforming complex business requirements into elegant digital solutions.
+💡 Passionate about mentoring developers, improving engineering quality, and building high-performance digital products.
 
 ---
 
 ### 🚀 Key Highlights
 
-• Led a team of 4 engineers delivering scalable enterprise applications  
-• Improved application performance by ~25–30% through optimization techniques  
-• Built reusable component libraries to accelerate development  
-• Designed frontend architecture for data-intensive dashboards  
-• Experience in system design and scalable application development  
+- Led a team of **4 engineers** delivering enterprise-grade applications  
+- Improved application performance by **25–30%**  
+- Built reusable component libraries and design systems  
+- Developed full-stack KPI and analytics platforms  
+- Experience in **system design, leadership, and cloud deployment**  
+- Certified **Databricks Generative AI Engineer Associate**
 
 ---
 
 ### 🧩 Technical Skills
 
-**Frontend:** React.js | Next.js | Redux-Saga | Redux Toolkit | TypeScript | JavaScript (ES6+) | jQuery | HTML5 | CSS3 | SCSS | Bootstrap  
-**Backend / API:** Node.js | RESTful APIs | GraphQL | Apollo  
+**Frontend:** React.js | Next.js | Redux-Saga | Redux Toolkit | RTK Query | TypeScript | JavaScript | HTML5 | CSS3 | SCSS | Bootstrap | Ant Design (Antd)  
+
+**Backend:** Node.js | Express.js | GraphQL | REST APIs | Apollo  
+
 **Databases:** MongoDB | MySQL | PostgreSQL  
-**Version Control:** Git | Bitbucket | GitHub  
-**Methodologies:** Agile / Scrum  
-**Tools:** VS Code | Postman | JIRA | Docker  
-**Leadership:** Architecture Design | Code Review | Team Mentorship | Quality Assurance  
+
+**Cloud & DevOps:** AWS (EC2, S3, CloudFront) | Docker | CI/CD  
+
 **Testing:** Jest | React Testing Library | Cypress  
+
+**Leadership:** Frontend Architecture | System Design | Code Review | Team Mentorship | Agile / Scrum  
 
 ---
 
 ### 🏆 Certifications
 
-- [🏅 Microsoft Certified – Database Administration Fundamentals (MTA)](https://drive.google.com/file/d/1FfX1MdHiZdJWxtRjO2eUp2e2UlZ3CoPs/view)  
-- [🐍 Microsoft Certified – Introduction to Programming using Python](https://drive.google.com/file/d/1CUNEixAPNQ1yc6s0ORHSwVSeSZRYX9et/view)  
-- [✅ ISTQB Certified Tester Foundation Level](https://drive.google.com/file/d/11mgH4EaepA2z-rwXnPfgXaC7RSHl3Zbb/view)  
-- [💻 React (Basic) Certificate – HackerRank](https://www.hackerrank.com/certificates/a75ff5501230)  
+- Databricks Certified Generative AI Engineer Associate
+- Microsoft Certified – Database Administration Fundamentals (MTA)
+- Microsoft Certified – Introduction to Programming using Python
+- ISTQB Certified Tester Foundation Level
+- React (Basic) – HackerRank
 
 ---
 
 ### 💼 Work Experience
 
-#### 🔹 SourceFuse Technologies India Pvt. Ltd.
+#### 🔹 SourceFuse Technologies India Pvt. Ltd. | Remote
 **Technical Lead (Aug 2024 – Present)**  
-- Lead a team of 2-4 developers delivering scalable and high-performance React and Next.js web applications.  
-- Defined frontend architecture standards, component libraries, and state management patterns focusing on performance and maintainability.  
-- Mentored engineers through code reviews, technical sessions and ensured adherence to best practices.  
-- Collaborated with cross-functional teams to design robust user-centric solutions for enterprise financial and analytics platforms.
-  
-**Senior Software Engineer (Aug 2023 – Aug 2024)**
-- Developed and optimized React.js/Next.js applications using Redux-Saga and Redux Toolkit.  
-- Implemented reusable UI components and optimized data fetching with Apollo GraphQL to improve app responsiveness.  
-- Created automated tests for critical flows to improve product quality and regression safety.
+- Leading a team of 4 engineers delivering scalable React.js and Next.js applications  
+- Designed frontend architecture for enterprise-grade platforms  
+- Built reusable component libraries and design systems  
+- Improved application performance by 25–30%  
+- Worked with AWS S3 and CloudFront for deployments  
 
-**Software Engineer (Aug 2022 – Aug 2023)**  
-- Developed scalable React.js applications with Redux-Saga for state management.  
-- Participated in full SDLC from requirement gathering to deployment in Agile teams, focusing on modular and maintainable code.
-
-#### 🔹 iTalent India Pvt. Ltd.
-**Software Developer (Jun 2019 – Aug 2022)**  
-
-- Built BizGrow V1 (Laravel, MySQL) and BizGrow Pulse V2 (React, Next.js, Apollo, GraphQL, MongoDB, Node Js) platforms.  
-- Developed full-stack, KPI analytics platforms with complex dashboards, improving business insights for SME clients.  
-- Ensured high code quality, scalability, and performance adhering to Agile practices.
+#### 🔹 iTalent India Pvt. Ltd. | Pune
+**Software Developer – MERN Stack (Jun 2019 – Aug 2022)**  
+- Developed full-stack MERN applications  
+- Built BizGrow V1 and BizGrow Pulse V2  
+- Developed Node.js APIs and GraphQL services  
+- Designed MongoDB schemas and optimized queries  
+- Delivered KPI analytics dashboards  
 
 ---
 
 ### 📂 Featured Projects
 
 #### 💰 Private Wealth System  
-_React.js | Redux-Saga | CSS3_  
-- Built a total wealth dashboard for investors with **transaction-level transparency**.  
-- Optimized performance, automated testing, and implemented reusable React components.
+_React.js | TypeScript | Redux-Saga | Antd | amCharts 4 | Apryse WebViewer_  
+- Financial dashboard for investor insights and reporting  
+- Interactive charts using **amCharts 4**  
+- Secure PDF/document workflows with **Apryse WebViewer**  
+- AWS S3 + CloudFront deployment  
 
 #### 📊 BizGrow Pulse V2  
-_React.js | Next.js | Apollo | Node Js | GraphQL | MongoDB_  
-- SME business growth platform visualizing KPIs and insights.  
-- Full-stack development, performance improvements, and high scalability.
+_MERN Stack | GraphQL | Ant Design_  
+- Real-time KPI analytics platform  
+- Built using **modern MERN architecture**  
+- Backend APIs + GraphQL services  
+- Optimized performance by 30%  
 
-#### 🏛 DPR Management System  
-_PHP | CodeIgniter | MySQL | Bootstrap_  
-- End-to-end project management solution under **PMAY (Pradhan Mantri Awas Yojna)**.  
-- Won **4th Prize – Smart India Hackathon 2018**.  
-
----
-
-### 🎓 Education
-
-**Master of Computer Applications (MCA)** – 2020  
-📍 Savitribai Phule Pune University
-
----
-
-### 🚀 Achievements
-
-- 4th Prize – Smart India Hackathon 2018 (**DPR Management System**) – Built using **PHP | CodeIgniter | MySQL | Bootstrap**  
-- Led teams and delivered enterprise-grade **full-stack web solutions**, including **modern React/Next.js apps and PHP systems**  
-- Multiple certifications including **Microsoft MTA, Python, ISTQB, and React Basic**  
+#### 📈 BizGrow V1  
+_Laravel | MySQL_  
+- Business performance and employee workflow platform  
+- Database optimization and backend reporting systems  
 
 ---
 
 ### 🌱 Currently Exploring
-- Next.js 15 and React Server Components  
-- GraphQL Federation & Apollo Gateway  
-- Cloud deployment: AWS / Vercel / Docker  
+- AI-powered SaaS workflows  
+- MERN + GenAI integrations  
+- AWS deployment best practices  
+- System design for scalable web apps  
 
 ---
 
@@ -131,20 +119,6 @@ _PHP | CodeIgniter | MySQL | Bootstrap_
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishortrimal&theme=radical" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishortrimal&theme=github-compact" />
-</p>
-
 ---
 
-### 🤝 Let’s Connect
-
-<p align="center">
-<a href="mailto:ktrimal@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/kishortrimal/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/kishortrimal"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-⭐ **“Code is like humor. When you have to explain it, it’s bad.”**
+⭐ **Building scalable products with clean architecture and performance-first mindset**
